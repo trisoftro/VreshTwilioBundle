@@ -1,9 +1,9 @@
 {
-    "name": "vresh/twilio-bundle",
+    "name": "tsslabs/vresh-twilio-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony TwilioBundle",
+    "description": "Symfony VreshTwilioBundle enhanced",
     "keywords": ["Twilio"],
-    "homepage": "https://github.com/fridolin-koch/VreshTwilioBundle",
+    "homepage": "https://github.com/tsslabs/VreshTwilioBundle",
     "license": "MIT",
     "authors": [
         {
@@ -13,6 +13,11 @@
         {
             "name": "Twilio",
             "homepage": "https://github.com/twilio/twilio-php"
+        },
+        {
+            "name": "TSS LABS team",
+            "homepage": "http://trisoft.ro",
+            "email": "info@trisoft.ro"
         }
     ],
     "minimum-stability": "dev",
